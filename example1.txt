@@ -1,0 +1,77 @@
+Subject: Application for XYZ Engineer Position at XYZ
+Hello [HR Manager's Name],
+I hope this message finds you well. I am writing to express my strong interest in the XYZ Engineer position at XYZ, as recently advertised on LinkedIn.
+With 5 years of experience as a Cloud DevOps Engineer, I possess expertise in cloud infrastructure, configuration management, and CI/CD practices, aligning closely with the job requirements. Please refer to my attached resume for more details on my professional background.
+I believe my skills and experience can be a valuable addition to your team. I'm eager to discuss how my qualifications can meet XYZ’s needs in more detail. You can reach me on LinkedIn or at tsanepu@gmail.com to schedule a conversation or interview.
+Thank you for considering my application.
+Sincerely,
+Teja Sanepu
+Phone: 226-798-6583
+Email: tsanepu@gmail.com
+LinkedIn: www.linkedin.com/in/tsanepu
+
+
+
+
+Subject: Application for DevOps Engineer Position
+
+Hello [Recruiter's Name],
+
+I hope this message finds you well. My name is Teja Sanepu, and I am writing to express my interest in the DevOps Engineer position at [Company Name], as advertised. With a solid background in Cloud DevOps, I believe my skills align perfectly with the requirements for this role.
+
+In my 5 years of experience, I have successfully navigated complex build plans, automated deployment processes, and optimized cloud costs. A notable accomplishment is a significant improvement in Linux distribution deployment efficiency by strategically integrating Jenkins automation. Additionally, my skills in PowerShell and SQL scripting played a key role in facilitating a seamless migration to Microsoft Azure.
+
+My proficiency extends to container technologies (Docker, Docker Swarm, Kubernetes), CI/CD tools (Jenkins, Azure DevOps), and infrastructure as code (Terraform, ARM). I have hands-on experience with AWS and Azure, managing services such as virtual machines, blob storage, web apps, and more.
+
+I am confident that my technical skills, coupled with excellent communication and problem-solving abilities, make me an ideal candidate for [Company Name]. I look forward to the opportunity to discuss how my experience aligns with your team's needs.
+
+Thank you for considering my application.
+
+Best regards,
+
+Teja Sanepu
+Phone: 226-798-6583
+Email: tsanepu@gmail.com
+LinkedIn: www.linkedin.com/in/tsanepu
+
+
+
+
+
+
+
+
+
+TEJA SANEPU                                                          
+Cloud/DevOps Engineer
+                                                                                      Mobile:226-798-6583                                                         
+	                                                                              Gmail:tsanepu@gmail.com 
+                                                                                            
+                                                  COVER LETTER
+
+Date: Jan 16th, 2024
+
+Hello Hiring Manager,
+
+I am writing to express my keen interest in a position within your esteemed organization. I bring 5 years of expertise in AWS and Azure cloud solutions and a deep understanding of the software development life cycle.
+
+In my current role, I automated database migrations to cloud platforms, resulting in a 20% improvement in migration speed. My proficiency in tools like Jenkins, DevOps, and Terraform has allowed me to streamline deployment pipelines, achieving a 20% decrease in the release cycle duration. Additionally, I have successfully managed complex build plans, reducing deployment time by 30% for various systems.
+
+During my tenure at a previous organization, I implemented a robust continuous integration system, achieving a 25% reduction in build, test, and deployment times. My skills extend to containerization using Docker and deployment on various cloud platforms with a 30% increase in efficiency. I am adept at optimizing cloud infrastructure to lower costs during low-traffic periods through auto-scaling.
+
+As a graduate of Computer Science from Sathyabama University, I bring a solid educational foundation alongside practical experience. My commitment to staying current with industry trends aligns seamlessly with dynamic environments.
+
+I am particularly drawn to opportunities where collaboration is valued. I am excited about the prospect of discussing how my skills align with the needs of the position in more detail.
+
+Thank you for considering my application. I look forward to discussing my qualifications further in an interview.
+
+Sincerely,
+Teja Sanepu 
+www.linkedin.com/in/tsanepu
+
+
+
+
+
+
+
